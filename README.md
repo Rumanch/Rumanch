@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on UX/UI , WEB Projects<br>🤝 I’m looking for help with MAD<br>🌱 I’m currently learning Mobile App Dev<br>⚡ Always ready tp Collaborate
+🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on UX/UI , WEB Projects<br>🤝 I’m looking for help with MAD<br>🌱 I’m currently learning Mobile App Dev<br>⚡ Always ready to Collaborate
 
 
 ## 🌐 Socials:
